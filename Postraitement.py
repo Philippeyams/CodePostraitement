@@ -3,7 +3,7 @@
 """
 Created on Wed Apr 21 15:04:44 2021
 
-@author: Antoine, modifs: Carole le 28/04/21
+@author:  Philippe Y
 """
 from osgeo import gdal,osr,ogr
 
